@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroShow", "MicroShow\MicroShow.csproj", "{685C746D-513D-45F7-810E-5A3E1328A792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Microservice", "Book.Microservice\Book.Microservice.csproj", "{59528766-8D45-4930-A43D-A61549D5B9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685C746D-513D-45F7-810E-5A3E1328A792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685C746D-513D-45F7-810E-5A3E1328A792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685C746D-513D-45F7-810E-5A3E1328A792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685C746D-513D-45F7-810E-5A3E1328A792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59528766-8D45-4930-A43D-A61549D5B9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59528766-8D45-4930-A43D-A61549D5B9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59528766-8D45-4930-A43D-A61549D5B9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59528766-8D45-4930-A43D-A61549D5B9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
